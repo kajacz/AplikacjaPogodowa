@@ -1,0 +1,17 @@
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\bin\Debug\Weather.exe.config
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\bin\Debug\Weather.exe
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\bin\Debug\Weather.pdb
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\obj\Debug\MainWindow.g.cs
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\obj\Debug\App.g.cs
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\obj\Debug\Weather_MarkupCompile.cache
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\obj\Debug\Weather_MarkupCompile.lref
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\obj\Debug\MainWindow.baml
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\obj\Debug\Weather.g.resources
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\obj\Debug\Weather.Properties.Resources.resources
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\obj\Debug\Weather.exe
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\obj\Debug\Weather.pdb
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\bin\Debug\Newtonsoft.Json.dll
+c:\users\kajax\onedrive\dokumenty\visual studio 2017\Projects\Weather\Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kajax\OneDrive\Dokumenty\Visual Studio 2017\Projects\Weather\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
